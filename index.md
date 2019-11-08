@@ -118,3 +118,13 @@ Young people aren't the only ones who are underrepresented on the electoral regi
  * Registering Commonwealth citizens. Commonwealth Citizens of qualifying countries can vote if resident in the UK. Many people don't realise this so tell everyone you know: <a href="https://promotemigrantvote.org.uk" target="_blank">promotemigrantvote.org.uk</a>
 
 </section>
+
+<section class="section" markdown="1">
+
+<div class="video">
+  <video width="320" height="240" controls>
+    <source src="/assets/youthvote.mp4" type="video/mp4">
+  </video>
+</div>
+
+</section>
