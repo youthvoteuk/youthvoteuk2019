@@ -102,7 +102,7 @@ Be friendly, tell students that there's an exciting election coming up on Decemb
 Remember to take lots of photos and post them on social media using the hashtag **#YouthVoteUK2019** and link to the website to get others involved!
 </section>
 
-<section class="section blue" markdown="1">
+<section class="section green" markdown="1">
 <h2 id="neutrality"> IMPORTANT <br> On neutrality </h2>
 
 Schools and colleges may be less keen to welcome you inside if you're clearly aligned with a particular party. It's important that you emphasise that we're here to encourage young people to vote. But, it's completely fine to talk to young people about why this election matters, the issues that they're interested in, and why they should vote. If you're organising outside a school or college, you have more freedom in how you brand your stall, but you must not brand any electoral materials (like registration forms) with party logos. Plus, we have found that a neutral 'register to vote' message is a good way to open up a conversation with young people. 

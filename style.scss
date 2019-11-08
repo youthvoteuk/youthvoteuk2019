@@ -2,7 +2,17 @@
 ---
 
 $red: #DB4641;
-$blue: #363B64;
+$green: #90CDC1;
+$grey: #444;
+$pink: #DA9DBA;
+$purple: #562A79;
+$black: #1A1919;
+$orange: #EC9681;
+$hot-pink: #CA528F;
+$blue: #0074E8;
+
+body {
+}
 
 a {
   color: $blue;
@@ -10,35 +20,42 @@ a {
 }
 
 .red {
-  background-color: $red;
   color: #fff;
 }
 
 .main-title {
+  background: #fff;
   text-align: center;
   font-family: 'Lato', sans-serif;
-  font-weight: bold;
-  padding-top: 45px;
-  h1 {
-    font-size: 10vw;
-    padding-bottom: 15px;
-  }
+  font-weight: 900;
+  font-size: 1.5em;
+  color: $black;
+  overflow: hidden;
 }
 
 .cta {
   padding: 5px 0;
   text-align: center;
-  background: $blue;
-  color: #fff;
+  background: $green;
+  color: $black;
+  font-size: 1.2em;
   a {
-    color: #fff;
+    color: $black;
     text-decoration: none;
   }
 }
 
+.cta.footer {
+  background: #dadada;
+}
+
 .logo {
   width: 100%;
-  max-width: 300px;
+}
+
+.hands {
+  width: 100%;
+  max-width: 400px;
 }
 
 .intro {
@@ -46,20 +63,23 @@ a {
 }
 
 .section {
-  font-family: 'Lato', sans-serif;
   margin: 30px 0;
   h2 {
+    font-family: 'Open Sans', sans-serif;
     padding: 15px;
-    background-color: $red;
-    color: #fff;
+    background-color: $green;
+    box-shadow: 5px 10px $pink;
+    color: $black;
     font-size: 1.5em;
     text-align: center;
     margin: 30px 0;
   }
 }
 
-.section.blue h2 {
-  background-color: $blue;
+.section.green h2 {
+  color: $black;
+  background-color: $pink;
+  box-shadow: 5px 10px $green;
 }
 
 .flyer {
@@ -92,4 +112,15 @@ a {
 
 .video {
   text-align: center;
+}
+
+.site-menu {
+  margin-top: 0;
+  background: $pink;
+  padding: 5px 0;
+  text-transform: uppercase;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.8em;
+  a { color: $black; text-decoration: none; }
+  a:hover { text-decoration: underline; color: #000; }
 }
