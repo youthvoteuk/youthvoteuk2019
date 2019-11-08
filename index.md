@@ -28,14 +28,16 @@ This one is the easiest! Find your nearest marginal (there are websites you can 
 
 Start by choosing the dates you can do between now and November 26th. We have found that lunch time (11.45 to 2pm) is great as all the students are out.
 
-Now publicise it, with clear dates, start & end time, meeting point and why this is important. You could:
+Check [this list](/join-your-local-group) to see if there's already a WhatsApp group for organisers in your area. If not, [contact us](/contact-us) and we can help you set one up.
+
+Now publicise it - make sure to include the WhatsApp group join link, clear dates, start & end time, meeting point and why this is important. You could:
 
  * Message all your friends and ask them to forward it on
  * Post the details on social media and canvassing Facebook groups
  * Invite people from your local party branch to come along
  * Encourage others to organise dates that you can't make
 
-It might help to make a WhatsApp group with everyone who is able to attend or interested so that you can organise quickly. Some groups have also used a 'google sheet' spreadsheet to organise times. You can use [our template](https://docs.google.com/spreadsheets/d/16lFZGg1ynGgUwBBnW196dT9J_kBKl4SATH3lZ2ekrGY/edit?usp=sharing) or create your own.
+Getting everyone who is able to attend or interested to join the WhatsApp group really helps with organising effectively. Some groups have also used a 'google sheet' spreadsheet to organise times. You can use [our template](https://docs.google.com/spreadsheets/d/16lFZGg1ynGgUwBBnW196dT9J_kBKl4SATH3lZ2ekrGY/edit?usp=sharing) or create your own.
 
 <img src="/assets/step-2.jpg" width="100%" />
 </section>

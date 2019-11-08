@@ -68,3 +68,11 @@ a {
     width: 100%;
   }
 }
+
+table, tr, th, td {
+  border: 1px solid #acacac;
+}
+
+th, td {
+  padding: 5px 15px;
+}
