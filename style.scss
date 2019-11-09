@@ -5,9 +5,9 @@ $red: #DB4641;
 $green: #90CDC1;
 $grey: #444;
 $pink: #DA9DBA;
-$purple: #562A79;
+$purple: #4B3171;
 $black: #1A1919;
-$orange: #EC9681;
+$orange: #D69D89;
 $hot-pink: #CA528F;
 $blue: #0074E8;
 
@@ -19,38 +19,55 @@ a {
   text-decoration: underline;
 }
 
-.red {
-  color: #fff;
-}
-
 .main-title {
-  background: #fff;
+  background: $orange;
   text-align: center;
   font-family: 'Lato', sans-serif;
   font-weight: 900;
-  font-size: 1.5em;
+  font-size: 3vw;
   color: $black;
   overflow: hidden;
+  h1 {
+    margin: 0;
+  }
+  p {
+    margin: 0;
+  }
 }
 
+.title-2019 {
+  width: 30vw;
+  margin-bottom: 0;
+  max-width: 250px;
+}
+
+.hands-container {
+  background: $orange;
+  color: $black;
+  text-align: center;
+  width: 100%;
+}
 .cta {
   padding: 5px 0;
   text-align: center;
-  background: $green;
-  color: $black;
   font-size: 1.2em;
+  background: $purple;
+  color: #fff;
   a {
-    color: $black;
+    color: #fff;
     text-decoration: none;
   }
 }
 
 .cta.footer {
-  background: #dadada;
+  background: $orange;
+  color: $black;
+  a { color: $black; }
 }
 
 .logo {
   width: 100%;
+  max-width: 1100px;
 }
 
 .hands {
@@ -68,7 +85,7 @@ a {
     font-family: 'Open Sans', sans-serif;
     padding: 15px;
     background-color: $green;
-    box-shadow: 5px 10px $pink;
+    box-shadow: 5px 10px $orange;
     color: $black;
     font-size: 1.5em;
     text-align: center;
@@ -78,7 +95,7 @@ a {
 
 .section.green h2 {
   color: $black;
-  background-color: $pink;
+  background-color: $orange;
   box-shadow: 5px 10px $green;
 }
 
@@ -115,8 +132,9 @@ a {
 }
 
 .site-menu {
+  font-weight: bold;
   margin-top: 0;
-  background: $pink;
+  background: $green;
   padding: 5px 0;
   text-transform: uppercase;
   font-family: 'Lato', sans-serif;
