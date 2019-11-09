@@ -129,6 +129,11 @@ a {
 
 .video {
   text-align: center;
+  video {
+    width: 100%;
+    height: auto;
+    max-width: 640px;
+  }
 }
 
 .site-menu {

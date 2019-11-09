@@ -122,7 +122,7 @@ Young people aren't the only ones who are underrepresented on the electoral regi
 <section class="section" markdown="1">
 
 <div class="video">
-  <video width="320" height="240" controls>
+  <video controls>
     <source src="/assets/youthvote.mp4" type="video/mp4">
   </video>
 </div>
