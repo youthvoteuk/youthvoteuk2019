@@ -5,8 +5,8 @@
 layout: page
 ---
 
-<section class="section" markdown="1">
-<h2 id="step-1">Contact us</h2>
+<section class="section green" markdown="1">
+<h2 id="contact-us">Contact us</h2>
 
 You can call, Whatsapp or text us for advice, information and to request resources on <a href="tel:07513308137">07513 308 137</a>. Or email: <a href="mailto:youthvoteuk2019@gmail.com">youthvoteuk2019@gmail.com</a>.
 

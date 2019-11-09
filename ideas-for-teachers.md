@@ -5,8 +5,8 @@
 layout: page
 ---
 
-<section class="section" markdown="1">
-<h2 id="step-1">Ideas for teachers</h2>
+<section class="section green" markdown="1">
+<h2 id="ideas-for-teachers">Ideas for teachers</h2>
 
 If you are a teacher or a member of staff at a college or school here's some ideas on how you could encourage young people to vote!
 
