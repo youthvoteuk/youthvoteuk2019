@@ -62,6 +62,8 @@ The best way for people to register to vote is online: [www.gov.uk/register-to-v
 
 You can also let people know that they can register for a postal vote: [www.gov.uk/government/publications/apply-for-a-postal-vote](https://www.gov.uk/government/publications/apply-for-a-postal-vote).
 
+If people don’t know their National Insurance number, they can still register! The online application will ask you why you do not have your National Insurance number: you can just write “I cannot find my NI number” in the form. Your local authority will then contact you (possibly by phone, email, or letter) to ask for more evidence for your eligibility to vote. This means that the process will take longer, so it’s best to register as soon as possible.
+
 </section>
 
 <section class="section" markdown="1">
