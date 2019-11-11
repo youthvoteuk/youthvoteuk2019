@@ -53,7 +53,7 @@ You don't need much, but we've found that flyers really help. Print some of thes
 </div>
 
 <div class="text-center mb-3">
-<small><em>Click an image above to download the flyer, or <a href="/assets/flyers/youthvote-colour.pdf" target="_blank">click here for a PDF with 4 flyers per page</a>.</em></small>
+<small><em>Click an image above to download the flyer, or download a PDF with 4 flyers per page <a href="/assets/flyers/youthvote-colour.pdf" target="_blank">in colour</a> or <a href="/assets/flyers/youthvote-black-and-white.pdf" target="_blank">in black and white</a>.</em></small>
 </div>
 
 It might also be nice to bring a banner saying 'Register to Vote' so people know what you're up to. If you can, bring snacks, music, a fold out table, or whatever else you may need.
