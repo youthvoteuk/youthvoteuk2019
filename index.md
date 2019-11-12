@@ -39,7 +39,14 @@ Now publicise it - make sure to include the WhatsApp group join link, clear date
 
 Getting everyone who is able to attend or interested to join the WhatsApp group really helps with organising effectively. Some groups have also used a 'google sheet' spreadsheet to organise times. You can use [our template](https://docs.google.com/spreadsheets/d/16lFZGg1ynGgUwBBnW196dT9J_kBKl4SATH3lZ2ekrGY/edit?usp=sharing) or create your own.
 
-<img src="/assets/step-2.jpg" width="100%" />
+<div class="row">
+  <div class="col-md-8 mb-3">
+    <img src="/assets/step-2.jpg" width="100%" />
+  </div>
+  <div class="col-md-4 mb-3">
+    <img src="/assets/step-2-2.jpg" width="100%" />
+  </div>
+</div>
 </section>
 
 <section class="section" markdown="1">
