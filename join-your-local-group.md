@@ -21,6 +21,7 @@ Click a link below to join the WhatsApp group for your local marginal. If there 
 | Plymouth | <a href="https://chat.whatsapp.com/JA2OMp5RCaj0SkYlP1nKzu" target="_blank">https://chat.whatsapp.com/JA2OMp5RCaj0SkYlP1nKzu</a> |
 | Bournemouth | <a href="https://chat.whatsapp.com/BoGhOUeCRBoCnY7JzRvRjM" target="_blank">https://chat.whatsapp.com/BoGhOUeCRBoCnY7JzRvRjM</a> |
 | Bristol | <a href="https://chat.whatsapp.com/ChUXUr9u5HuFgbueC1SArd" target="_blank">https://chat.whatsapp.com/ChUXUr9u5HuFgbueC1SArd</a> |
+| Stroud & Gloucester | <a href="https://chat.whatsapp.com/H1SS8SSXUcP1LNaG3vwjqI" target="_blank">https://chat.whatsapp.com/H1SS8SSXUcP1LNaG3vwjqI</a> |
 
 </div>
 <div class="whatsapp-table" markdown="1">
