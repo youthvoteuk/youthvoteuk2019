@@ -45,6 +45,7 @@ Click a link below to join the WhatsApp group for your local marginal. If there 
 -----------|-------------------
 | Kensington & Westminster | <a href="https://chat.whatsapp.com/CvX9klDz5W74VhUPRt8VnX" target="_blank">https://chat.whatsapp.com/CvX9klDz5W74VhUPRt8VnX</a> |
 | Chingford | <a href="https://chat.whatsapp.com/C0ZT75XkKf3CWwTgf34fh8" target="_blank">https://chat.whatsapp.com/C0ZT75XkKf3CWwTgf34fh8</a> |
+| North London | <a href="https://chat.whatsapp.com/CCFfieF5Ihf7z07iUZayNU" target="_blank">https://chat.whatsapp.com/CCFfieF5Ihf7z07iUZayNU</a> |
 
 </div>
 </section>
