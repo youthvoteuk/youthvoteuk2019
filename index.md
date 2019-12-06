@@ -6,11 +6,11 @@ layout: home
 ---
 
 <section class="intro mt-5" markdown="1">
-Youth turnout will have a huge impact in the 2019 election. In 2017 between the day the election was called and the deadline 1.9 million people registered to vote. This year it was 2.7 million, and increase of 40%. For the under 25s it was 47%.
+Youth turnout will have a **huge** impact in the 2019 election. In 2017 between the day the election was called and the deadline 1.9 million people registered to vote. This year it was **2.7 million**, an increase of **40%**. For the under 25s it was **47%**.
 
-Young people's voice will be loud in this election. But currently, only 59% of 18-24 year olds say they are cetain to vote.
+Young people's voices will be loud in this election. But currently, only 59% of 18-24 year olds say they are certain to vote.
 
-You can help tp push these numbers higher by organising "get out the youth vote" drives in your nearest marginal constituency.
+You can help to push these numbers higher by organising "get out the youth vote" drives in your nearest marginal constituency.
 
 Here's how:
 </section>
@@ -18,21 +18,23 @@ Here's how:
 <section class="section" markdown="1">
 <h2 id="step-1"> STEP 1 <br> Do the research </h2>
 
-This one is the easiest! Find your nearest marginal (there are websites you can use to do this) and identify the Further Education colleges, Universities & Shopping centres in that constituency.  You may think of other places  that are good to contact young people too, tube and train stations have been successful for some groups. If you're planning to go to a college, check the number of students over 18 to make sure it's worth your while.
+This one is the easiest! Find your nearest marginal (there are websites you can use to do this) and identify the Further Education colleges, Universities & Shopping centres in that constituency.  You may think of other places that are good to contact young people too: tube and train stations have been successful for some groups. If you're planning to go to a college, check the number of students over 18 to make sure it's worth your while.
 
 </section>
 
 <section class="section" markdown="1">
 <h2 id="step-2"> STEP 2 <br> Get your group together</h2>
 
-There are already existing groups in Hendon, Kensington, Chipping Barnet, Chingford, Canterbury. You can join these groups via the Whatsapp groups below.
+There are already existing groups in Hendon, Kensington, Chipping Barnet, Chingford, and Canterbury. You can join these groups via Whatsapp using the links on the [join your local group](/join-your-local-group) page. If there's no WhatsApp group listed for your marginal yet, [contact us](/contact-us) and we'll hook you up.
+
 If you are in another marginal then get together a few other people and start a Whatsapp group. If you'd like to advertise it send us the link and we'll put it on the website.
+
 Here's some ways you could advertise what you're doing:
 
-Message all your friends and ask them to forward it on
-Post the details on social media and canvassing Facebook groups
-Invite people from your local party branch to come along
-Encourage others to organise dates that you can’t make
+* Message all your friends and ask them to forward it on
+* Post the details on social media and canvassing Facebook groups
+* Invite people from your local party branch to come along
+* Encourage others to organise dates that you can’t make
 
 <div class="row">
   <div class="col-md-8 mb-3">
@@ -51,8 +53,8 @@ You can download our Get Out the Vote flyer here.
 We have found that banners, music, and anything that attracts attention to what you're doing can be really helpful.
 
 <div class="row">
-{%- include flyer.html filename="youthvote-colour" -%}
-{%- include flyer.html filename="youthvote-black-and-white" -%}
+{%- include flyer.html filename="GOTYV-1" -%}
+{%- include flyer.html filename="GOTYV-2" -%}
 </div>
 </section>
 
@@ -60,9 +62,11 @@ We have found that banners, music, and anything that attracts attention to what 
 <h2 id="step-4"> STEP 4 <br> Contact the venue</h2>
 
 #### Shopping Centres / High Streets / Tube & train stations
+
 If you’re going to a shopping centre or another public location, you can just go along and start chatting to people, although some shopping centres will have rules about who can flyer there. 
 
 #### FE colleges
+
 Many colleges are keen for young people to vote. Contact the college, they might be interested in you giving a short talk in an assembly or form time, or flyering in the canteen or playground. See our note on impartiality below, this is important for colleges.
 
 When calling, explain that you are a group of independent campaigners who are holding stalls to encourage young people to vote. Many FE colleges have already hosted such stalls, so ask them whether they would like to welcome you as well.
@@ -70,9 +74,11 @@ When calling, explain that you are a group of independent campaigners who are ho
 If it’s not possible to organise inside, you can just set up outside and speaking to students as they leave. However, it’s always more effective to be inside, so try this first.
 
 #### Universities
+
 Try contacting the Students’ Union sabbatical officers to discuss this. Many Students’ Unions also have a staff member (non-student) dedicated to student participation. See who you can get hold of. Many students' unions will already be organising their own get out the vote activities.
 
 #### Be strategic
+
 We want to maximise resources, so if you’re calling a college or university with a student’s union or a supportive member of staff, you could offer to send them the resources and let them take the lead, then you can hit another location!
 
 </section>
@@ -98,16 +104,15 @@ People are often glad to be reminded to vote, and there can be a real buzz about
 
 <section class="section green" markdown="1">
 <h2 id="neutrality"> IMPORTANT <br> On neutrality </h2>
+
 Schools and colleges may be less keen to welcome you inside if you’re clearly aligned with a particular party. It’s important that you emphasise that we’re here to encourage young people to vote. But, it’s completely fine to talk to young people about why this election matters, the issues that they’re interested in, and why they should vote. If you’re organising outside a school or college, you have more freedom in how you brand your stall, but you must not brand any electoral materials (like registration forms) with party logos.
+
 </section>
 
 <section class="section" markdown="1">
 <h2 id="other-things-you-can-do">Getting the vote out on the doorstep</h2>
 
 We really encourage you to get involved in your local party on election day, knocking on doors to remind people to vote is really important! We're organising these activities additionally because young people often don't answer the door at home.
-Whatsapp groups:
-Kensington: https://chat.whatsapp.com/CvX9klDz5W74VhUPRt8VnX
-Hendon: https://chat.whatsapp.com/GAcm9zbkv0Q9ZDDOI83eUA
 
 </section>
 
