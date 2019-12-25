@@ -25,7 +25,7 @@ This one is the easiest! Find your nearest marginal (there are websites you can 
 <section class="section" markdown="1">
 <h2 id="step-2"> STEP 2 <br> Get your group together</h2>
 
-There are already existing groups in Hendon, Kensington, Chipping Barnet, Chingford, and Canterbury. You can join these groups via Whatsapp using the links on the [join your local group](/join-your-local-group) page. If there's no WhatsApp group listed for your marginal yet, [contact us](/contact-us) and we'll hook you up.
+There are already existing groups in Hendon, Kensington, Chipping Barnet, Chingford, and Canterbury. Contact us at <a href="mailto:youthvoteuk2019@gmail.com">youthvoteuk2019@gmail.com</a> if you'd like us to add you to a group.
 
 If you are in another marginal then get together a few other people and start a Whatsapp group. If you'd like to advertise it send us the link and we'll put it on the website.
 
